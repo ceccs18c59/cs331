@@ -8,7 +8,7 @@
 | 2   | CPU Scheduling Algorithms (II)     | December 21st, 2020 | [Report](https://github.com/ceccs18c59/cs331/blob/main/Experiment%202/report.pdf) |
 | 3   | File Allocation Strategies         | December 22nd, 2020 | [Report](https://github.com/ceccs18c59/cs331/blob/main/Experiment%203/report.pdf) |
 | 4   | File Oranization Techniques        | Incomplete          | null                                                                              |
-| 5   | Banker’s Algorithm                 | Incomplete          | null                                                                              |
+| 5   | Banker’s Algorithm                 | December 25th, 2020 | [Report](https://github.com/ceccs18c59/cs331/blob/main/Experiment%205/report.pdf) |
 | 6   | Disk Scheduling Algorithms         | Incomplete          | null                                                                              |
 | 7   | Producer-Consumer Problem          | Incomplete          | null                                                                              |
 | 8   | Dining Philosopher’s Problem       | Incomplete          | null                                                                              |
